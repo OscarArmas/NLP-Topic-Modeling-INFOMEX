@@ -5,3 +5,5 @@ INFOMEX es una plataforma en la cual se pueden realizar solicitudes de documento
 Chequen este análisis en el cual se analizo mas de 2 millones de preguntas para poder obtener los temas de interés de la población, no solo use wordcloud, también muestro métodos mas avanzados de topic modeling, como TF-IDF+ K-means, y GSDMM que es parecido a Latend Dirichlet Allocation pero para textos cortos.
 Chequen los resultados en mi github y cualquier comentario o recomendación es bienvenido.
 
+Tan solo con word-Cloud se pudo obtener:
+![alt text](https://github.com/OscarArmas/NLP-Topic-Modeling-INFOMEX/blob/master/presentation_img.png?raw=true)
